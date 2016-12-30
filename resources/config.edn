@@ -1,0 +1,6 @@
+{:dbtype "postgresql"
+ :dbname "searchdb"
+ :host "localhost"
+ :port 5432
+ :user "searchuser"
+ :password "123qwe"}
